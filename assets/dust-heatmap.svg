@@ -3,14 +3,7 @@
   <desc id="desc">114 contributions in the last year. Teal heatmap squares assemble from dust and then scatter away.</desc>
   <rect width="888" height="186" rx="14" fill="#0d1117"/>
   <text x="22" y="25" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">114 contributions in the last year</text>
-  <g transform="translate(1081.0 75.0)">
-  <title>0 contributions on 2025-11-10</title>
-  <rect width="12" height="12" rx="2" fill="#16393d"/>
-  <animateTransform attributeName="transform" type="translate" dur="12s" repeatCount="indefinite"
-    values="1081.0 75.0;22 64;22 64;-157.0 170.0;1081.0 75.0"
-    keyTimes="0;0.212;0.740;0.955;1" calcMode="spline"
-    keySplines="0.16 0.84 0.25 1;0 0 1 1;0.55 0 0.84 0.16;0 0 1 1"/>
-</g><g transform="translate(957.0 -32.0)">
+  <g transform="translate(957.0 -32.0)">
   <title>0 contributions on 2025-11-11</title>
   <rect width="12" height="12" rx="2" fill="#16393d"/>
   <animateTransform attributeName="transform" type="translate" dur="12s" repeatCount="indefinite"
@@ -2564,6 +2557,13 @@
   <animateTransform attributeName="transform" type="translate" dur="12s" repeatCount="indefinite"
     values="986.0 6.0;854 80;854 80;-192.0 202.0;986.0 6.0"
     keyTimes="0;0.640;0.740;0.955;1" calcMode="spline"
+    keySplines="0.16 0.84 0.25 1;0 0 1 1;0.55 0 0.84 0.16;0 0 1 1"/>
+</g><g transform="translate(1093.0 99.0)">
+  <title>0 contributions on 2026-11-11</title>
+  <rect width="12" height="12" rx="2" fill="#16393d"/>
+  <animateTransform attributeName="transform" type="translate" dur="12s" repeatCount="indefinite"
+    values="1093.0 99.0;854 96;854 96;-107.0 86.0;1093.0 99.0"
+    keyTimes="0;0.637;0.740;0.955;1" calcMode="spline"
     keySplines="0.16 0.84 0.25 1;0 0 1 1;0.55 0 0.84 0.16;0 0 1 1"/>
 </g>
 </svg>
